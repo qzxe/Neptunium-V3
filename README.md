@@ -6,7 +6,7 @@ step by step guide for dumb mfs
 
 2. Go to lobby
 
-3. Inject the dll with uuu or something
+3. Inject the dll with uuu or something (https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 
 4. Press f1
 
