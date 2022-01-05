@@ -14,7 +14,7 @@ step by step guide for dumb mfs
 
 6. Ur now in game 
 
-non comprssed issue include 
+Non comprssed issue include 
 - Fixing the Artemis_Terrain buildings issues
 - Loading into Artemis_Terrain
 - 
@@ -22,4 +22,4 @@ non comprssed issue include
 - 
 - (https://github.com/qzxe/Uranium-V3/files/7812288/weapons.txt)
 
-also give credit pls
+Also give credit pls
