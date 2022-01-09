@@ -1,7 +1,8 @@
-# Uranium-V3 
-Uranium V3 (https://github.com/qzxe/Uranium-V3/files/7834384/UraniumV3.zip)
+# Neptunium-V3 
+Neptunium V3 (https://github.com/qzxe/Uranium-V3/files/7834384/UraniumV3.zip)
 
-step by step guide for dumb mfs
+step by step guide
+
 1. Get private server
 
 2. Go to lobby
@@ -13,13 +14,9 @@ step by step guide for dumb mfs
 5. Open the fortnite console and press f5
 
 6. Ur now in game 
-
-Non comprssed issue include 
-- Fixing the Artemis_Terrain buildings issues
-- Loading into Artemis_Terrain
-- 
-- List of all weapon ids as of v19.01 will update when i get time 
-- 
-- (https://github.com/qzxe/Uranium-V3/files/7812288/weapons.txt)
+ 
+ List of all weapon ids as of v19.01 will update when i get time 
+ 
+ (https://github.com/qzxe/Uranium-V3/files/7812288/weapons.txt)
 
 Also give credit pls
