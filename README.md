@@ -29,5 +29,3 @@ All cosmetics in the game are free and preloaded in to your acc apart from these
 ![148673731-2ba79a1a-587d-4975-8819-557f84353869](https://user-images.githubusercontent.com/73672486/148674296-83a49e6f-76ab-4373-92b4-49974ef70b74.png)
 ![148673750-40006ee6-a9a4-456a-a4f2-816f2ce3475d](https://user-images.githubusercontent.com/73672486/148674298-cb0be45b-43b3-4ee5-afa8-1db2e23034e0.png)
 ![148673754-1a4394e8-ee1d-4bf8-b043-c9bde19dc376](https://user-images.githubusercontent.com/73672486/148674308-a3f1593e-95dd-4b8d-8755-9cb8743a28ae.png)
-![148673779-0f34accd-2a76-4c37-9755-43c99a4635dc](https://user-images.githubusercontent.com/73672486/148674310-7b09fd41-a1d6-4c91-a238-164fec7f631b.png)
-![148673789-2040f3e1-9840-4ee0-88ce-4910e999bab1](https://user-images.githubusercontent.com/73672486/148674313-ce3a5487-7c05-4e54-aeb5-86ebc4936fc8.png)
