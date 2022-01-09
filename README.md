@@ -18,7 +18,7 @@ Non comprssed issue include
 - Fixing the Artemis_Terrain buildings issues
 - Loading into Artemis_Terrain
 - 
-- List of all weapon ids as of v19,01 will update when i get time 
+- List of all weapon ids as of v19.01 will update when i get time 
 - 
 - (https://github.com/qzxe/Uranium-V3/files/7812288/weapons.txt)
 
