@@ -19,7 +19,7 @@ step by step guide
  
  (https://github.com/qzxe/Uranium-V3/files/7812288/weapons.txt)
 
-All cosmetics in the game work apart from these banners which are locked for NeptuniumV3 beta testers only
+All cosmetics in the game are free and preloaded in to your acc apart from these banners which are locked for NeptuniumV3 beta testers only
 
 ![148673631-e0217143-47db-4bd4-84b3-b4943b305d16](https://user-images.githubusercontent.com/73672486/148674270-c882dea4-83b6-4b8b-832a-0afcad8b107b.png)
 ![148673650-5fdb3881-afd9-4440-8f37-f0d443842f44](https://user-images.githubusercontent.com/73672486/148674277-8b85f4ef-4e9a-41b6-9211-c41108419a75.png)
