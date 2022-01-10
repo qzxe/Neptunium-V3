@@ -1,4 +1,4 @@
-# Neptunium-V3 
+# Neptunium-V3 (LAUNCHER COMING SOON)
 Neptunium V3 (https://github.com/qzxe/Neptunium-V3/files/7834625/NeptuniumV3.zip)
 
 step by step guide
