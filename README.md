@@ -20,3 +20,4 @@ step by step guide
  (https://github.com/qzxe/Uranium-V3/files/7812288/weapons.txt)
 
 ![FB6lZ67XsAQPc0z](https://user-images.githubusercontent.com/73672486/148780399-1f0657b0-b205-4ffd-a446-6b8929556363.jpeg)
+![FCbT4hhWQAUeO_D](https://user-images.githubusercontent.com/73672486/148910151-4b48a7d7-2646-4151-a250-2489baa9b45d.jpeg)
